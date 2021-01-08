@@ -45,7 +45,7 @@ Los Alamos National Laboratory 2010 LAAP Award for _Outstanding Summer Research 
 - Los Alamos National Laboratory, [_Grid Science Winter School_](http://www.cvent.com/events/2017-grid-science-winter-school-conference/event-summary-a84a476bbd734a898ff41548a756ac96.aspx), Program Committee, 2017, 2019
 - 28th Australasian Joint Conference on Artificial Intelligence, Student Symposium Chair, 2015
 - Senior Program Committee
-  - 35th AAAI Confrence on Artifical Intelegence (AAAI), 2021
+  - 35th AAAI Conference on Artificial Intelligence (AAAI), 2021
 - Program Committee
   - IEEE Quantum Week, Quantum Benchmarks & Measurements Track, 2020
   - 21st Power Systems Computation Conference (PSCC), 2020
